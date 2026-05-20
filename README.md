@@ -51,19 +51,3 @@ I am an **Informatics Engineering** student at **Universitas Teknologi Bandung**
 <a href="https://www.linkedin.com/in/mf-ajilla/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
----
-
-### 💡 Why this works:
-1.  **Capsule Header:** Using `capsule-render` creates a/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github modern, sleek entrance to your profile that is much more engaging than plain text.
-2.  **Badge Visuals:** Grouping your "Web" and "-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Farhad Ajilla" height="30Game" stacks separately shows your versatility while maintaining organization.
-3.  **Project Context:** Specifically mentioning the **LLM + Godot** combination (your thesis) immediately marks" width="40" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail you as a cutting-edge developer.
-4.  **Japanese Language:** Including your **JLPT N5** status adds a unique personal layer that makes.svg" alt="Email" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <i> you stand out to international or specialized recruiters.
-
-**Next Step:** Replace `YOUR_GITHUB_USERNAME_HERE`, `YOUR_LINKEDIN_URL`,"Turning coffee into code and pixels into worlds."</i>
-</p>
